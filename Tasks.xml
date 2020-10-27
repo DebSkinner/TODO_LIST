@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<Tasks>
+  <Task>
+    <ID>8d878e4e6acacb1</ID>
+    <Priority>Hot Rush</Priority>
+    <taskText>Update database tables</taskText>
+  </Task>
+  <Task>
+    <ID>8d878e5d6dabb52</ID>
+    <Priority>Normal</Priority>
+    <taskText>Set up Web Deploy</taskText>
+  </Task>
+  <Task>
+    <ID>8d878e6735d0e91</ID>
+    <Priority>Hot Rush</Priority>
+    <taskText>Call the marketing agents</taskText>
+  </Task>
+  <Task>
+    <ID>8d878e67b5804f2</ID>
+    <Priority>Whenever</Priority>
+    <taskText>Paint the house</taskText>
+  </Task>
+  <Task>
+    <ID>8d879c51b3cc177</ID>
+    <Priority>Normal</Priority>
+    <taskText>Learn to play the ukelele</taskText>
+  </Task>
+  <Task>
+    <ID>8d87aa321c0ed69</ID>
+    <Priority>Normal</Priority>
+    <taskText>Rake the leaves and take them to dump</taskText>
+  </Task>
+</Tasks>

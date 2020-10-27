@@ -1,0 +1,65 @@
+﻿body {
+}
+.popup {
+    width: 540px;
+    height: auto;
+    background-color: darkgray;
+    text-align: center;
+    padding: 20px;
+    /*font-size: large;*/
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 12;
+}
+
+.wrap {
+    width: 500px;
+    overflow-wrap: break-word;
+}
+
+#taskHeader {
+    float: left;
+    margin: 20px;
+}
+
+.hiddencol {
+    display: none;
+}
+
+.UpdateBtn {
+    background-color: #0080ff;
+    color: white;
+}
+
+.DeleteBtn {
+    background-color: #e50000;
+    color: white;
+}
+
+#addNewTask {
+    margin: 20px;
+}
+
+.GridViewRowHeader {
+    background-color: silver;
+    font-weight: bold;
+    text-align: center;
+}
+
+.GridViewRowHeader a {
+        color: black;
+        text-align:center;
+    }
+
+#gridDiv {
+    float: left;
+    margin-top: 20px;
+}
+.editTb{
+    width:500px;
+}
+td{
+    padding:5px;
+}
